@@ -1,0 +1,13 @@
+{
+  "FORM": {
+    "START_FORM": {
+      "TITLE": "Start Form"
+    },
+    "PREVIEW": {
+      "IMAGE_NOT_AVAILABLE": "Preview not available"
+    },
+    "FIELD": {
+        "REQUIRED" : "*Required"
+    }
+  }
+}
